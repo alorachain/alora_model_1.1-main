@@ -1,6 +1,6 @@
 # Alora Model 1.1
 
-Alora is an intelligent AI assistant with advanced reasoning and knowledge management capabilities, designed to provide comprehensive and nuanced interactions.
+Alora is an intelligent model with advanced reasoning and knowledge management capabilities, designed to provide comprehensive and nuanced interactions.
 
 ## Features
 - Advanced sentiment analysis
